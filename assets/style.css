@@ -1,0 +1,11 @@
+#barBottomContainer {
+    margin-bottom: 0;
+}
+
+div.messagebox {
+    margin: 0;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
